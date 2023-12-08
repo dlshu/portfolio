@@ -4,4 +4,4 @@
 [Carnegie Mellon University](https://www.cmu.edu/) 
 #### Research Objective: <br /> 
 Develop deep generative models to improve the efficiency and safety of computational tools
-Expected Graduatation Time: 2024 Summer
+- Expected Graduatation Time: 2024 Summer
