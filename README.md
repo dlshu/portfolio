@@ -14,5 +14,5 @@ Expect to graduate on 2024 Summer • Open to work
 
 A denoising diffusion probablistic model for robust super-resolution of turbulent flow data. Currently in the process of being incoprated to [modulus](https://github.com/NVIDIA/modulus).
 
-![project_1_label](/assets/img/eeg_band_discovery.jpeg)
+![dfsr](assets/dfsr_model_inference.png)
 
