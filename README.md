@@ -23,9 +23,10 @@ A computationally more efficient neural PDE solver using multi-dimensional facto
 
 <img src='assets/factformer.png' width='720'>
 
-- ### Spatial Completion of Turbulent Data Using Deep Generative Models (ongoing, manuscript coming out soon)
+- ### Spatial Completion of Turbulent Data Using Deep Generative Models* (paper | code)
 
 A study on reconstructing the missing region in turbulent flow data with vector-quantized generative adversarial network model.
+(* ongoing project, manuscript coming out soon)
 
 <img src='assets/data_completion_vqgan_sq.gif' width='720'> <br />
 <img src='assets/data_completion_vqgan_sq_4.gif' width='720'>
