@@ -16,8 +16,9 @@ A denoising diffusion probablistic model for robust super-resolution of turbulen
 
 <img src='assets/dfsr_model_inference.png' width='720'>
 
-### A physics-informed diffusion model for high-fidelity flow field reconstruction ([paper](https://www.sciencedirect.com/science/article/pii/S0021999123000670) | [code](https://github.com/BaratiLab/Diffusion-based-Fluid-Super-resolution/tree/main_v1))
+### Scalable Transformer for PDE Surrogate Modeling* ([paper](https://arxiv.org/pdf/2305.17560.pdf) | [code]([https://github.com/BaratiLab/Diffusion-based-Fluid-Super-resolution/tree/main_v1](https://github.com/BaratiLab/FactFormer)))
 
-A denoising diffusion probablistic model for robust super-resolution of turbulent flow data. Currently in the process of being incoprated to [modulus](https://github.com/NVIDIA/modulus).
+A computationally more efficient neural PDE solver using multi-dimensional factorized attention.
+(* second author, paper accepted for [NeurIPS 2023](https://nips.cc/Conferences/2023) poster session.)
 
 <img src='assets/factformer.png' width='720'>
