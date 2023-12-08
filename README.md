@@ -5,4 +5,4 @@
 #### Research Objective: <br /> 
 Develop deep generative models to improve the efficiency and safety of computational tools
 
-##### Expected Graduatation Time: 2024 Summer &#8226 Open to work
+Expected Graduatation Time: 2024 Summer - Open to work
