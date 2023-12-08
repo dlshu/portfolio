@@ -2,6 +2,7 @@
 [Mechanical and AI Lab](https://sites.google.com/view/barati) / 
 [Department of Mechanical Engieering](https://www.meche.engineering.cmu.edu/) 
 [Carnegie Mellon University](https://www.cmu.edu/) 
-#### Research Area: <br /> 
-Developing deep generative models to improve the efficiency and safety of engineering tools
+#### Research Objective: <br /> 
+Develop deep generative models to improve the efficiency and safety of computational tools
 
+### Expected Graduatation Time: 2024 Summer &#8226 Open to work
