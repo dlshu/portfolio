@@ -27,5 +27,5 @@ A computationally more efficient neural PDE solver using multi-dimensional facto
 
 A study on reconstructing the missing region in turbulent flow data with vector-quantized generative adversarial network model.
 
-<img src='assets/data_completion_vqgan_sq.gif' width='720'> br />
+<img src='assets/data_completion_vqgan_sq.gif' width='720'> <br />
 <img src='assets/data_completion_vqgan_sq_4.gif' width='720'>
