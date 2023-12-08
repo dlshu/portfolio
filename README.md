@@ -11,7 +11,7 @@ Expect to graduate on 2024 Summer • Open to work
 
 ## Projects
 ### A physics-informed diffusion model for high-fidelity flow field reconstruction ([paper](https://www.sciencedirect.com/science/article/pii/S0021999123000670)|)
-A denoising diffusion probablistic model for robust super-resolution of turbulent flow data. Currently in the process of being incoprated to [modulus](https://github.com/NVIDIA/modulus)
+A denoising diffusion probablistic model for robust super-resolution of turbulent flow data. Currently in the process of being incoprated to [modulus](https://github.com/NVIDIA/modulus).
 
 ![project_1_label](/assets/img/eeg_band_discovery.jpeg)
 
