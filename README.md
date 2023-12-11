@@ -47,4 +47,3 @@ A deep generative model to synthesize 3D mesh objects for evaluating a design cy
 <img src='assets/mesh_generation_model.png' width='720'> <br />
 <img src='assets/GANDER_interpolation_v1.gif' width='720'>
 
-<img src='assets/face_swapping_v1.gif' width='720'>
