@@ -14,7 +14,8 @@ Expect to graduate on 2024 Summer • Open to work
 
 A denoising diffusion probablistic model for robust super-resolution of turbulent flow data. Currently in the process of being incoprated to [modulus](https://github.com/NVIDIA/modulus).
 
-<img src='assets/dfsr_model_inference.png' width='720'>
+<img src='assets/dfsr_model_inference.png' width='720'> <br />
+<img src='assets/reconstruction_sample_01.gif' width='720'>
 
 - ### Scalable Transformer for PDE Surrogate Modeling* ([paper](https://arxiv.org/pdf/2305.17560.pdf) | [code]([https://github.com/BaratiLab/Diffusion-based-Fluid-Super-resolution/tree/main_v1](https://github.com/BaratiLab/FactFormer)))
 
@@ -35,5 +36,15 @@ A study on reconstructing the missing region in turbulent flow data with vector-
 
 A study to investigate STEM learners’ ability to decipher AI-generated video created by a face-swapping generative model.
 (* The face-swapping model is adopted from the work by A. Siarohin et al. )
+
+<img src='assets/face_swapping_v1.gif' width='720'>
+
+- ### 3d design using generative adversarial networks and physics-based validation* ([paper](https://asmedigitalcollection.asme.org/mechanicaldesign/article/142/7/071701/1067306/3D-Design-Using-Generative-Adversarial-Networks) | code)
+
+A deep generative model to synthesize 3D mesh objects for evaluating a design cycle consisting of synthesis and physics-based validation..
+(* The code is currently being updated to support newer version of PyTorch and CUDA toolkit. Will become available soon. )
+
+<img src='assets/mesh_generation_model.png' width='720'> <br />
+<img src='assets/GANDER_interpolation_v1.gif' width='720'>
 
 <img src='assets/face_swapping_v1.gif' width='720'>
