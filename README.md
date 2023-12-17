@@ -41,9 +41,14 @@ A study to investigate STEM learners’ ability to decipher AI-generated video c
 
 - ### 3d design using generative adversarial networks and physics-based validation* ([paper](https://asmedigitalcollection.asme.org/mechanicaldesign/article/142/7/071701/1067306/3D-Design-Using-Generative-Adversarial-Networks) | code)
 
-A deep generative model to synthesize 3D mesh objects for evaluating a design cycle consisting of synthesis and physics-based validation..
+A deep generative model to synthesize 3D mesh objects for evaluating a design cycle consisting of synthesis and physics-based validation.
 (* The code is currently being updated to support newer version of PyTorch and CUDA toolkit. Will become available soon. )
 
-<img src='assets/mesh_generation_model.png' width='720'> <br />
-<img src='assets/GANDER_interpolation_v1.gif' width='720'>
+- ### 3d design using generative adversarial networks and physics-based validation* ([paper](https://asmedigitalcollection.asme.org/mechanicaldesign/article/142/7/071701/1067306/3D-Design-Using-Generative-Adversarial-Networks) | code)
+
+- ### Generative Adversarial Attacks Against Intrusion Detection Systems Using Active Learning ([paper](https://dl.acm.org/doi/abs/10.1145/3395352.3402618) | [code](https://github.com/dlshu/adversarial-attack-on-IDS))
+
+A generative adversarial active Learning method to model query-efficient attacks against network intrusion detection systems for safefy evaluation/
+
+<img src='assets/active_learning.png' width='720'>
 
