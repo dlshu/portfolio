@@ -17,7 +17,7 @@ A denoising diffusion probablistic model for robust super-resolution of turbulen
 <img src='assets/dfsr_model_inference.png' width='720'> <br />
 <img src='assets/reconstruction_sample_01.gif' width='720'>
 
-- ### Scalable Transformer for PDE Surrogate Modeling* ([paper](https://arxiv.org/pdf/2305.17560.pdf) | [code]([https://github.com/BaratiLab/Diffusion-based-Fluid-Super-resolution/tree/main_v1](https://github.com/BaratiLab/FactFormer)))
+- ### Scalable Transformer for PDE Surrogate Modeling* ([paper](https://arxiv.org/pdf/2305.17560.pdf) | [code](https://github.com/BaratiLab/FactFormer)
 
 A computationally more efficient neural PDE solver using multi-dimensional factorized attention. <br />
 (* second author, paper accepted for [NeurIPS 2023](https://nips.cc/Conferences/2023) poster session.)
