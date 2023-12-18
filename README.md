@@ -49,7 +49,7 @@ A deep generative model to synthesize 3D mesh objects for evaluating a design cy
 
 - ### Generative Adversarial Attacks Against Intrusion Detection Systems Using Active Learning ([paper](https://dl.acm.org/doi/abs/10.1145/3395352.3402618) | [code](https://github.com/dlshu/adversarial-attack-on-IDS))
 
-A generative adversarial active Learning method to model query-efficient attacks against network intrusion detection systems for safefy evaluation/
+A generative adversarial active Learning method to model query-efficient attacks against network intrusion detection systems for safefy evaluation.
 
 <img src='assets/active_learning.png' width='720'>
 
