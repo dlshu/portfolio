@@ -35,7 +35,7 @@ A study on reconstructing the missing region in turbulent flow data with vector-
 - ### Talking-head Video Synthesis Using a Face-transformation generative model* ([paper](https://par.nsf.gov/biblio/10292836) | [code](https://github.com/AliaksandrSiarohin/first-order-model))
 
 A study to investigate STEM learners’ ability to decipher AI-generated video created by a face-swapping generative model.
-(* The face-swapping model is adopted from the work by A. Siarohin et al. The driving video shown below was made at the courtesy of [Mitchell Fogelson](http://www.mitchellfogelson.com/).)
+(* The face-swapping model is adopted from the work by A. Siarohin et al. The driving video below was made at the courtesy of [Mitchell Fogelson](http://www.mitchellfogelson.com/).)
 
 <img src='assets/face_swapping_v1.gif' width='720'>
 
